@@ -19,3 +19,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,git,github,vscode" />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajey-2003&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajey-2003&layout=compact&theme=tokyonight" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajey-2003&theme=tokyonight" />
+</p>
