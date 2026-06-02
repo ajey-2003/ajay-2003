@@ -27,12 +27,15 @@
 
 ## 🚀 Projects
 
-- 🌐 HTML & CSS Practice Website
-- 💻 C Programming Solutions
-- ☕ Java Learning Projects
-- 🐍 Python Practice Programs
-- 📚 BCA Academic Projects
+- 🌐 [HTML & CSS Practice Website](https://github.com/ajey-2003/bca-html-css-project)
 
+## 🎯 Current Goals
+
+- 🌱 Learning Full Stack Web Development
+- 💻 Starting my Programming Journey
+- 📚 Pursuing Bachelor of Computer Applications (BCA)
+- 🇯🇵 Learning Japanese Language
+- 🚀 Working towards becoming a Software Engineer
 ## 👀 Profile Views
 
 <p align="center">
