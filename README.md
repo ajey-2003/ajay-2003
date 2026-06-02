@@ -28,5 +28,5 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajey-2003&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ajey-2003&theme=tokyonight&hide_border=true" />
 </p>
