@@ -27,8 +27,7 @@
 
 ## 🚀 Projects
 
-- 🌐 [HTML & CSS Practice Website](https://github.com/ajey-2003/bca-html-css-project)
-
+- 🚗 [Car Showcase Website](https://github.com/ajey-2003/bca-html-css-project) – Multi-page website built using HTML and CSS
 ## 🎯 Current Goals
 
 - 🌱 Learning Full Stack Web Development
