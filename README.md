@@ -25,6 +25,16 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajey-2003&show_icons=true&theme=tokyonight" />
 </p>
 
+## 🚀 Projects
+
+- 🌐 HTML & CSS Practice Website
+- 💻 C Programming Solutions
+- ☕ Java Learning Projects
+- 🐍 Python Practice Programs
+- 📚 BCA Academic Projects
+
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajey-2003" />
+  <img src="https://komarev.com/ghpvc/?username=ajey-2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
