@@ -14,3 +14,8 @@
   🇯🇵 Preparing for opportunities in Japan <br>
   🚀 Working towards becoming a Software Engineer
 </p>
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,git,github,vscode" />
+</p>
