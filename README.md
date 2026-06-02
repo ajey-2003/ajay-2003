@@ -25,8 +25,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajey-2003&show_icons=true&theme=tokyonight" />
 </p>
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajey-2003&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ajey-2003" />
 </p>
