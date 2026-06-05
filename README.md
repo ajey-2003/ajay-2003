@@ -28,6 +28,7 @@
 ## 🚀 Projects
 
 - 🚗 [Car Showcase Website](https://github.com/ajey-2003/bca-html-css-project) – Multi-page website built using HTML and CSS
+- 🛒 [Amazon Clone](https://github.com/ajey-2003/amazon-clone) – Responsive Amazon homepage clone built with HTML & CSS featuring modern UI layout and product sections.
 ## 🎯 Current Goals
 
 - 🌱 Learning Full Stack Web Development
